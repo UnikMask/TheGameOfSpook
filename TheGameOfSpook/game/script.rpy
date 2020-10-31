@@ -4,6 +4,7 @@
 # name of the character.
 
 define e = Character("Eileen")
+define p = Character("You")
 
 
 # The game starts here.
@@ -14,7 +15,7 @@ label start:
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
 
-    scene bg room
+    scene bg bedroom morning
 
     # This shows a character sprite. A placeholder is used, but you can
     # replace it by adding a file named "eileen happy.png" to the images
@@ -24,9 +25,17 @@ label start:
 
     # These display lines of dialogue.
 
-    e "You've created a new Ren'Py game."
+     "Today is haloween!"
 
-    e "Once you add a story, pictures, and music, you can release it to the world!"
+     "I have been waiting for this day for ages now, and it has finally come."
+
+     "Indeed, where I live, halloween is widely considered as the most important day of the year."
+
+    p "Woah! It's already 7am! I need to run to school!"
+
+     "I quickly jump in my trousers, dive in my T-shirt, and exit my bedroom to the living room."
+
+     "Suddenly..."
 
     # This ends the game.
 

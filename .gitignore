@@ -4,7 +4,7 @@
 tmp/
 .import/
 navigation.json
-error.txt
+errors.txt
 log.txt
-saves/*
-cache/*
+saves/
+cache/

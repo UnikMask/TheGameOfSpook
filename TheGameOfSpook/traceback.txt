@@ -1,0 +1,26 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 61, in script
+    $skelly_san_aff += 2
+  File "game/script.rpy", line 61, in <module>
+    $skelly_san_aff += 2
+NameError: name 'skelly_san_aff' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 61, in script
+    $skelly_san_aff += 2
+  File "/usr/share/renpy/renpy/ast.py", line 914, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "/usr/share/renpy/renpy/python.py", line 2028, in py_exec_bytecode
+    exec bytecode in globals, locals
+  File "game/script.rpy", line 61, in <module>
+    $skelly_san_aff += 2
+NameError: name 'skelly_san_aff' is not defined
+
+Linux-5.9.1-1-MANJARO-x86_64-with-glibc2.2.5
+Ren'Py 7.3.5.606
+TheGameOfSpook 1.0
+Sat Oct 31 19:05:20 2020

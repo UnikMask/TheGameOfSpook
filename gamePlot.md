@@ -7,9 +7,9 @@
 * The hot male CS teacher - John Honey-san: Has cold personnality after 10pm, links every sentence with vim :q 
   	Hasn't given back feedback to that one practical from 2 months ago:q Promotes his own crypto to class:q
 * Inexplicable Amex dude who shows up - Amex-kun: "Wanna get a credit card?" 
-* The student council president: Everybody looks up to him, wears glasses, plays 5D chess. Has bow and arrow.
+* The student council president, Edamame-san: Everybody looks up to him, wears glasses, plays 5D chess. Has bow and arrow.
   Hates you for some reason.
-* Female student council president: Dynamic duo the other president. Has bone fetish.
+* Female student council president, Ponzu-chan: Dynamic duo the other president. Has bone fetish.
 * Monika: JUST MONIKA
 * Principal - Kiryu Kazuma: kills you by 100x combo 
 

@@ -7,7 +7,7 @@ define e = Character("Eileen")
 define p = Character("You")
 define a = Character("Amex-kun")
 define e = Character("Elen")
-define ew = Character("Ewan")
+define ew = Character("Ryan Gibb")
 define unknown = Character("???")
 define s = Character("Skelly-san")
 define f = Character("Female student council president")
@@ -223,7 +223,7 @@ label blue:
     ew "Welcome to Stacshack 2021 everybody!"
     ew "I\'m Ewan, your school president, and this year this competition is sponsored by American Express!'"
     ew "Please welcome our 2 American Express representatives Amex-kun, aaand..."
-    p "Quick, love, tell them your name!"
+    a "Quick, love, tell them your name!"
     python:
         povname = renpy.input("My name is ")
         povname = povname.strip()

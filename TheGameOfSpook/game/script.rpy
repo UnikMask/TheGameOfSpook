@@ -25,17 +25,17 @@ label start:
 
     # These display lines of dialogue.
 
-     "Today is haloween!"
+    "Today is haloween!"
 
-     "I have been waiting for this day for ages now, and it has finally come."
+    "I have been waiting for this day for ages now, and it has finally come."
 
-     "Indeed, where I live, halloween is widely considered as the most important day of the year."
+    "Indeed, where I live, halloween is widely considered as the most important day of the year."
 
     p "Woah! It's already 7am! I need to run to school!"
 
-     "I quickly jump in my trousers, dive in my T-shirt, and exit my bedroom to the living room."
+    "I quickly jump in my trousers, dive in my T-shirt, and exit my bedroom to the living room."
 
-     "Suddenly..."
+    "Suddenly..."
 
     # This ends the game.
 

@@ -200,8 +200,8 @@ label accept:
 
 
 label refuse:
-    a "Sorry, I cannot take this..."
-    p "Nah, I understand man... "
+    p "Sorry, I cannot take this..."
+    a "Nah, I understand man... "
     pause 1
     "Maybe you'll get it next time we meet!"
     jump scene4
@@ -240,7 +240,7 @@ label red:
     pause 10
     p "Wrong answer lad..."
     p "But maybe the color red really fits you in the end..."
- #   jump therevelation
+    return
 
 
 image bg classroom = "images/classroom.jpg"

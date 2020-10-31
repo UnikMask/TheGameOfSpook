@@ -6,3 +6,5 @@ tmp/
 navigation.json
 error.txt
 log.txt
+saves/*
+cache/*
